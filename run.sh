@@ -1,0 +1,1 @@
+docker run --rm -it -v $PWD/notebooks/:/notebooks/ -p 8888:8888 jupyter-spark
